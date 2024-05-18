@@ -2,6 +2,9 @@
 You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
 
+# Findings
+1) Charted Schools have students that score much higher and pass more on average than District Schools. Particularly Math (with Charter schools having a 90% pass rate while 53% for District schools). Of course it this isnt sufficent to claim that these schools produce/house better students as there needs to be further examination on course content, grading criteria to compare the metrics.
+
 # Instructions
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
@@ -28,3 +31,5 @@ Create a DataFrame called size_summary that breaks down school performance based
 
 ## Scores by School Type
 Show school performance based on the "School Type".
+
+
