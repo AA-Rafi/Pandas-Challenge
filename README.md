@@ -4,7 +4,9 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 # Findings
 1) Charted Schools have students that score much higher and pass more on average than District Schools. Particularly Math (with Charter schools having a 90% pass rate while 53% for District schools). This isnt sufficent to claim these schools produce better students as there needs to be further analysis in course content, grading criteria to compare the metrics.
+
 2) Examining Spending ranges, the more funding a school gets the worse the passing rates are (90% at the lowest bucket while it gets proceedingly smaller going to 53% at the largest bucket). This isnt enough to speak on the relationship between the two. Firstly, the large funding could be more related to the district schools which ussually have medium to large capacity and thus demand larger funding. Additionally, the schools that are performing well with the funding they have should be further investigated for what programs they invest in and what really brings utility to the education process.
+
 3) In conclusion, higher grades will be produced from a student in a Charter school with small class sizes. However further analysis is required if this means students are better educated underthese circumstances.
 
 # Instructions
